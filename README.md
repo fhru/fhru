@@ -40,7 +40,7 @@
 
 <div align="center">
 
-<a href="https://github.com/0xabdulkhalid/">
+<a href="https://github.com/fhru/">
   <img src="https://github-readme-stats.vercel.app/api?username=fhru&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=00C060&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0,010203,00C060"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fhru&show_icons=true&locale=en&layout=compact&line_height=20&title_color=00C060&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0,010203,00C060" alt="fhru"/>
 
