@@ -77,8 +77,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/fhru/fhru/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center">
